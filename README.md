@@ -61,4 +61,4 @@ testable.]
 
 ## Author
 
-Rehumile Masego Sechele, rehumiles@gmail.com
+Rehumile Sechele, rehumiles@gmail.com
